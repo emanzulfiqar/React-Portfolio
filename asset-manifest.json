@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/github.io/React-Portfolio/static/css/main.56accc34.css",
+    "main.js": "/github.io/React-Portfolio/static/js/main.06771277.js",
+    "static/js/787.1ed0c42c.chunk.js": "/github.io/React-Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/img3.png": "/github.io/React-Portfolio/static/media/img3.bfe56ca8b34508df592f.png",
+    "static/media/img2.png": "/github.io/React-Portfolio/static/media/img2.5a9b47b6cdaf0a35d6b2.png",
+    "static/media/img5.png": "/github.io/React-Portfolio/static/media/img5.1a47ab392aedc387f47e.png",
+    "static/media/img6.png": "/github.io/React-Portfolio/static/media/img6.b32b6cb051aed0fe132c.png",
+    "static/media/img4.png": "/github.io/React-Portfolio/static/media/img4.5ad4c878e852c93b1514.png",
+    "static/media/img8.png": "/github.io/React-Portfolio/static/media/img8.dd5bbde663e3901076c7.png",
+    "static/media/about-me-img.png": "/github.io/React-Portfolio/static/media/about-me-img.c42301d75c3dd0e985e2.png",
+    "static/media/Eman-Zulfiqar-Ghani.pdf": "/github.io/React-Portfolio/static/media/Eman-Zulfiqar-Ghani.01a60bbd4d1b50977b68.pdf",
+    "index.html": "/github.io/React-Portfolio/index.html",
+    "main.56accc34.css.map": "/github.io/React-Portfolio/static/css/main.56accc34.css.map",
+    "main.06771277.js.map": "/github.io/React-Portfolio/static/js/main.06771277.js.map",
+    "787.1ed0c42c.chunk.js.map": "/github.io/React-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56accc34.css",
+    "static/js/main.06771277.js"
+  ]
+}
