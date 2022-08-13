@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.56accc34.css",
+    "main.css": "/React-Portfolio/static/css/main.ae0286c1.css",
     "main.js": "/React-Portfolio/static/js/main.27bf5e82.js",
     "static/js/787.1ed0c42c.chunk.js": "/React-Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/img3.png": "/React-Portfolio/static/media/img3.bfe56ca8b34508df592f.png",
@@ -12,12 +12,12 @@
     "static/media/about-me-img.png": "/React-Portfolio/static/media/about-me-img.c42301d75c3dd0e985e2.png",
     "static/media/Eman-Zulfiqar-Ghani.pdf": "/React-Portfolio/static/media/Eman-Zulfiqar-Ghani.01a60bbd4d1b50977b68.pdf",
     "index.html": "/React-Portfolio/index.html",
-    "main.56accc34.css.map": "/React-Portfolio/static/css/main.56accc34.css.map",
+    "main.ae0286c1.css.map": "/React-Portfolio/static/css/main.ae0286c1.css.map",
     "main.27bf5e82.js.map": "/React-Portfolio/static/js/main.27bf5e82.js.map",
     "787.1ed0c42c.chunk.js.map": "/React-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.56accc34.css",
+    "static/css/main.ae0286c1.css",
     "static/js/main.27bf5e82.js"
   ]
 }
