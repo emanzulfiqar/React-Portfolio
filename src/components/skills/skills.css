@@ -1,0 +1,90 @@
+#skills {
+  padding-top: 2rem;
+}
+
+#skills h2 {
+  margin-bottom: 2rem;
+}
+
+.skills-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.skills-container > div {
+  background: var(--color-bg-variant);
+  padding: 2rem 6rem;
+  border-radius: 2rem;
+  border: 1px solid transparent;
+  transition: var(--transition);
+}
+
+.skills-container > div:hover {
+  background: transparent;
+  border-color: var(--color-primary-variant);
+  cursor: default;
+}
+
+.skills-container > div h3 {
+  text-align: center;
+  margin-bottom: 2rem;
+  color: var(--color-primary);
+}
+
+.skills-content {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 4rem;
+  padding: 2rem;
+  justify-items: center;
+}
+
+.skills-details {
+  display: flex;
+  gap: 1rem;
+}
+
+.skills-details-icons {
+  margin-top: 6px;
+  color: var(--color-light);
+  font-size: 2.5rem;
+  transition: var(--transition);
+  transform: scale(1);
+}
+
+.skills-details-icons:hover {
+  color: var(--color-primary);
+  transform: scale(1.2);
+}
+
+/***media query for tablets ***/
+@media screen and (max-width: 1024px) {
+  /* section#skills{
+        margin-top:25rem;
+    } */
+  #skills {
+    padding-top: 4rem;
+  }
+  .skills-container > div {
+    width: 70%;
+    padding: 2rem;
+    margin: 0 auto;
+  }
+  .skills-content {
+    padding: 1rem;
+  }
+}
+/***media query for mobile phones ***/
+@media screen and (max-width: 600px) {
+  section#skills {
+    margin-top: 12rem;
+  }
+  .skills-container {
+    gap: 1rem;
+  }
+  .skills-container > div {
+    width: 100%;
+    padding: 2rem 1rem;
+  }
+}/*# sourceMappingURL=skills.css.map */
